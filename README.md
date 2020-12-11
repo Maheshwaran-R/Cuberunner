@@ -1,16 +1,16 @@
 # Cuberunner
 
 
-# Introduction
+## Introduction
 This is a game called CUBERUNNER. A simple platform runner game in 3D.
 
-#Title
+## Title
 CUBERUNNER
 
-#Contents
+## Contents
 Assets,C# scripts and settings for the game
 
-#Built with
+## Built with
 Unity
 
 
